@@ -1,0 +1,23 @@
+1.abstract.
+2.analisi varie.
+3.fasi:
+  studio fattibilità;
+  analisi requisiti;
+  analisi problema;
+  progettazione;
+  realizzazione+collaudo moduli;
+  integrazione+collaudo sistema;
+  installazione e training;
+  utilizzo e manutenzione;
+  
+idea: lettura qr code(?);
+
+database: passeggeri; viaggi; bagagli;
+
+percorso: bagaglio; qr code; lettura; finestra;
+
+funzioni: 
+  una che effettui la lettura del qr code e mandi a video le info;
+  una che legga le info del database;
+  autenticazioni varie.
+  
