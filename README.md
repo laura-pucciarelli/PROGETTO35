@@ -1,5 +1,4 @@
 # PROGETTO35
-scheletro progetto
 
 title: noLine
 
